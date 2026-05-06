@@ -19,3 +19,13 @@ Dataset structure:
 imgdata/
 ├── Positive/
 └── Negative/
+## Results
+
+Validation accuracy: **99.15%**
+
+Confusion matrix:
+
+| Actual | Predicted Negative | Predicted Positive |
+|---|---:|---:|
+| Negative | 3979 | 21 |
+| Positive | 47 | 3953 |
