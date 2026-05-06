@@ -15,7 +15,7 @@ The goal is to demonstrate an end-to-end deep learning workflow for industrial d
 Surface Crack Detection dataset containing 40,000 images.
 
 Dataset structure:
-```text
+
 imgdata/
 ├── Positive/
 └── Negative/
