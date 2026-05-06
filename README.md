@@ -21,6 +21,7 @@ imgdata/
 └── Negative/
 ## Results
 
+## Results
 Validation accuracy: **99.15%**
 
 Confusion matrix:
