@@ -19,14 +19,18 @@ Dataset structure:
 imgdata/
 ├── Positive/
 └── Negative/
-## Results
 
 ## Results
-Validation accuracy: **99.15%**
 
-Confusion matrix:
+### Validation Accuracy
+**99.15%**
+
+### Confusion Matrix
 
 | Actual | Predicted Negative | Predicted Positive |
 |---|---:|---:|
 | Negative | 3979 | 21 |
 | Positive | 47 | 3953 |
+
+### Key Observation
+The model achieved high validation accuracy with low false negative rate, which is important for industrial defect detection applications.
